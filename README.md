@@ -4,4 +4,4 @@
 
 ## Google Search Console
 - GooglePlayの情報公開に応じるためのwebサイトとしてこのページが設定されます
-  - https://github.com/suzuran-works/Home/settings/pages
+  - [https://github.com/suzuran-works/Home/settings/pages](https://suzuran-works.github.io/Home/)
